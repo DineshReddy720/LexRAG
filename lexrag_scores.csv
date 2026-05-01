@@ -1,0 +1,11 @@
+Q#,Question,Llama-3.1-8B_hallucination,Llama-3.1-8B_accuracy,Llama-3.1-8B_reasoning,Llama-3.3-70B_hallucination,Llama-3.3-70B_accuracy,Llama-3.3-70B_reasoning,Llama-4-Scout_hallucination,Llama-4-Scout_accuracy,Llama-4-Scout_reasoning
+1,What was the Supreme Court's ruling in Tinker v. Des Moines?,0,1,4,0,0,5,0,0,5
+2,What legal standard did the court establish in Brandenburg v. Ohio?,0,1,5,0,0,1,0,1,4
+3,What is the 'actual malice' standard from New York Times v. Sullivan?,0,0,2,0,0,1,0,0,1
+4,Who wrote the majority opinion in Snyder v. Phelps and what was the vote?,0,0,1,0,0,2,0,0,2
+5,Why did the court rule in favor of the Westboro Baptist Church in Snyder v. Phelps?,0,1,4,0,1,4,0,1,4
+6,How did the court balance free speech against potential harm in Brandenburg v. Ohio?,0,0,1,0,0,1,0,0,1
+7,Why did the court protect the students' speech in Tinker v. Des Moines?,0,0,1,0,0,1,0,0,2
+8,Is there a consistent standard across these cases for when speech can be restricted?,0,0,2,0,0,1,0,0,4
+9,How might the Tinker ruling apply to student social media posts today?,0,1,4,0,0,1,0,0,1
+10,How do these rulings collectively define the limits of First Amendment protection?,0,0,3,0,0,1,0,0,1
